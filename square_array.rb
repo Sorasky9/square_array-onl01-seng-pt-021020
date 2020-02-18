@@ -8,4 +8,5 @@ number << x ** 2
 
 
 end
+number
 end
