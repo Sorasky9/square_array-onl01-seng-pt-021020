@@ -1,3 +1,9 @@
+require 'pry'
+
 def square_array(array)
-  # your code here
+# binding.pry
+number = []
+array.each do {|x| |x ** 2|}
+  puts "#{number}"
+end
 end
