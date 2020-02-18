@@ -5,7 +5,7 @@ def square_array(array)
 number = []
 array.each do |x|
 number << x**2
-puts number
+
 
 end
 end
