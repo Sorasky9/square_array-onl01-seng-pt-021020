@@ -5,6 +5,6 @@ def square_array(array)
 number = []
 array.each do {|x| |x ** 2|}
   number << x ** 2
-  puts "#{number}"
+  
 end
 end
